@@ -1,0 +1,21 @@
+.navbar .navbar-brand,
+.content {
+  color: #ffde00;
+}
+
+.content .foto svg {
+  width: 600px;
+}
+
+.content .foto img {
+  transform: translateX(7em);
+}
+
+.about .link a i {
+  color: black;
+}
+
+.about .link a:hover i {
+  color: #ffde00;
+}
+
